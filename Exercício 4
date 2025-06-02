@@ -1,5 +1,5 @@
 populacao = int(input("População atual: "))
-total = float(input("Taxa de crescimento: ")) / 100
+taxa = float(input("Taxa de crescimento: ")) / 100
 
 print("Projeção:")
 print("Ano 1:", (populacao * (1 + taxa)))
