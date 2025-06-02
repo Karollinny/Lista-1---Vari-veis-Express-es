@@ -4,7 +4,7 @@ numero2 = int(input("Digitei o segundo número inteiro"))
 
 soma = numero1 + numero2
 
-print(Soma)
+print(soma)
 
 produto = numero1 - numero2
 
