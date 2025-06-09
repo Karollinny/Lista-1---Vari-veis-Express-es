@@ -1,19 +1,23 @@
-numero1 = int(input("Digite o primeiro número inteiro"))
+algarismo1 = int(input("Digite o primeiro algarismo"))
 
-numero2 = int(input("Digite o segundo número inteiro"))
+algarismo2 = int(input("Digite o segundo algarismo"))
 
-soma = numero1 + numero2
+#Usar + para somar os algarismo
 
-print(soma)
+adicao = algarismo1 + algarismo2
+print(adicao)
 
-produto = numero1 - numero2
+#Usar - para diminuir o algarismo
 
-print(produto)
+subtracao = algarismo1 - algarismo2
+print(subtracao)
 
-diferenca = numero1 * numero2
+#Usar * para multiplicar o algarismo
 
-print(diferenca)
+multiplicacao = algarismo1 * algarismo2
+print(multiplicacao)
 
-quociente = numero1 // numero2
+#Usar o // para dividir o algarismo inteiro
 
-print(quociente)
+divisao = algarismo1 // algarismo2
+print(divisao)
